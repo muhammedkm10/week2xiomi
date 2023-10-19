@@ -1,0 +1,48 @@
+body{
+    margin: 0;
+    overflow-x: hidden;
+    background-color: gray;
+}
+.nav-item{
+    margin-left: 1.5rem;
+}
+.navbar{
+    position: fixed;
+}
+.card-body img{
+    margin-top: 70%;
+}
+.inside-imgs{
+    height: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+.white{
+    width: 100%;
+ background-color: white;
+ height: 33vw;
+ margin-left: 3vw;
+ margin-top: 4vw;
+ display: flex;
+ justify-content: center;
+ justify-items: center;
+ align-items: center;
+ align-content: center;
+ float: left;
+}
+.bt1{
+    width:12vw;
+    font-size:1vw;
+    margin-left:17vw;
+    margin-top:17vw;
+    position: absolute;
+    left:0;
+}
+.bt2{
+    width:12vw;
+    font-size:1vw;
+    margin-left:17vw;
+    margin-top:17vw;
+    position: absolute;
+    left:0;
+}
